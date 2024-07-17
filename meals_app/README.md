@@ -1,16 +1,31 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+An innovative cooking app featuring meal filters and categorization.
 
-## Getting Started
+## App Sceenshots
+<table>
+  <tr>
+    <td>Categories Page</td>
+    <td>Dishes List</td>
+    <td>Dish Description</td>
+  </tr>
+  <tr>
+    <td><img src="image1.jpg" width=216 height=463></td>
+    <td><img src="image2.jpg" width=216 height=463></td>
+    <td><img src="image3.jpg" width=216 height=463></td>
+  </tr>
+ </table> 
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td>Filters Page</td>
+    <td>Fvorites Page</td>
+  </tr>
+  <tr>
+    <td><img src="image4.jpg" width=216 height=463></td>
+    <td><img src="image5.jpg" width=216 height=463></td>
+  </tr>
+ </table> 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
